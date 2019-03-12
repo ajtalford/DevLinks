@@ -1,14 +1,14 @@
 {
-  "main.css": "/github.io/DevLinks/static/css/main.d2ba2a7d.chunk.css",
-  "main.js": "/github.io/DevLinks/static/js/main.7844c73d.chunk.js",
-  "main.js.map": "/github.io/DevLinks/static/js/main.7844c73d.chunk.js.map",
-  "runtime~main.js": "/github.io/DevLinks/static/js/runtime~main.53cf85aa.js",
-  "runtime~main.js.map": "/github.io/DevLinks/static/js/runtime~main.53cf85aa.js.map",
-  "static/js/2.56e72f81.chunk.js": "/github.io/DevLinks/static/js/2.56e72f81.chunk.js",
-  "static/js/2.56e72f81.chunk.js.map": "/github.io/DevLinks/static/js/2.56e72f81.chunk.js.map",
-  "index.html": "/github.io/DevLinks/index.html",
-  "precache-manifest.e07e6cc22aee9828361f36cf2ed84ccd.js": "/github.io/DevLinks/precache-manifest.e07e6cc22aee9828361f36cf2ed84ccd.js",
-  "service-worker.js": "/github.io/DevLinks/service-worker.js",
-  "static/css/main.d2ba2a7d.chunk.css.map": "/github.io/DevLinks/static/css/main.d2ba2a7d.chunk.css.map",
-  "static/media/App.css": "/github.io/DevLinks/static/media/showcase.4b31330b.jpg"
+  "main.css": "/DevLinks/static/css/main.7756e94f.chunk.css",
+  "main.js": "/DevLinks/static/js/main.50a1c6b0.chunk.js",
+  "main.js.map": "/DevLinks/static/js/main.50a1c6b0.chunk.js.map",
+  "runtime~main.js": "/DevLinks/static/js/runtime~main.b5bebb1c.js",
+  "runtime~main.js.map": "/DevLinks/static/js/runtime~main.b5bebb1c.js.map",
+  "static/js/2.56e72f81.chunk.js": "/DevLinks/static/js/2.56e72f81.chunk.js",
+  "static/js/2.56e72f81.chunk.js.map": "/DevLinks/static/js/2.56e72f81.chunk.js.map",
+  "index.html": "/DevLinks/index.html",
+  "precache-manifest.eb42ef0ea0e435ae3c23844b55eb7b41.js": "/DevLinks/precache-manifest.eb42ef0ea0e435ae3c23844b55eb7b41.js",
+  "service-worker.js": "/DevLinks/service-worker.js",
+  "static/css/main.7756e94f.chunk.css.map": "/DevLinks/static/css/main.7756e94f.chunk.css.map",
+  "static/media/App.css": "/DevLinks/static/media/showcase.4b31330b.jpg"
 }
